@@ -26,3 +26,9 @@ print(df.head())
    *  [The Android App Market on Google Play](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
    *  [A Visual History of Nobel Prize Winners](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
    *  [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+* PYTHON - Machine Learnig / sklearn
+   *  [Predicting Credit Card Approvals](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+
+
+
+https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Predicting%20Credit%20Card%20Approvals/notebook.ipynb
