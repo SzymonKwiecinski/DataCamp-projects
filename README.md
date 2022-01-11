@@ -17,7 +17,7 @@ print(df.head())
 
 
 
-### Guided projects from [DataCamp](www.datacamp.com) platform
+### Guided projects from [DataCamp](https://www.datacamp.com) platform
 * SQL
    * [What and Where Are the World's Oldest Businesses](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/SQL/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses_/notebook.ipynb)
 * PYTHON / pandas / numpy / matplotlib / seaborn
