@@ -1,7 +1,7 @@
 <p align="center">
 <img  src="datascience.jpg" width="600" height="auto">
 <h1>
-<p align="center">My data science projects</p>
+<p align="center">Data science projects</p>
 </h1>
 
 ```python
