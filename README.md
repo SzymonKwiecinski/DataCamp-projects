@@ -28,3 +28,5 @@ print(df.head())
    *  [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 * PYTHON - Machine Learnig / sklearn
    *  [Predicting Credit Card Approvals](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+   *  [Classify Song Genres from Audio Data](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
+
