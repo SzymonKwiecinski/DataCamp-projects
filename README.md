@@ -29,4 +29,5 @@ print(df.head())
 * PYTHON - Machine Learnig / sklearn
    *  [Predicting Credit Card Approvals](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
    *  [Classify Song Genres from Audio Data](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
-
+* PYTHON - Imagine preprocessing
+   *  [Naïve Bees Image Loading and Processing](https://github.com/SzymonKwiecinski/DataCamp-projects/blob/main/PYTHON/DataNaïve%20Bees%20Image%20Loading%20and%20Processing/notebook.ipynb) 
